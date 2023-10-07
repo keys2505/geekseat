@@ -1,4 +1,4 @@
-package com.geekseat.app.helper;
+package com.geekseat.app.config;
 
 import java.util.HashMap;
 import java.util.Map;
