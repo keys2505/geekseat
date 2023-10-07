@@ -25,7 +25,7 @@ git clone https://github.com/keys2505/geekseat.git
 ### Build the Project
 Navigate to the project directory and build the application using Maven:
 ```bash
-cd geekseat
+cd geekseat-master
 mvn clean install
 ```
 
