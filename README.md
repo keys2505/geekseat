@@ -1,4 +1,4 @@
-# Geekseat Technical Tes
+# Geekseat Technical Test
 
 This is a Spring Boot application for answer the Technical Test Question at Geekseat.
 I create this project without database so you can run this project without changes
